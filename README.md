@@ -1,2 +1,1 @@
-# sarcasm_detection-
-Sarcasm detection (NLP Project)
+# Sarcasm detection (NLP Project)
